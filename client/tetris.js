@@ -1,4 +1,4 @@
-class Tetris {
+Tetris = class Tetris {
   constructor(element) {
 
     this.element = element;

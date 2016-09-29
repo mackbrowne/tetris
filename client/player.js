@@ -1,4 +1,4 @@
-class Player {
+Player = class Player {
   constructor(tetris) {
 
     this.DROP_SLOW = 1000;

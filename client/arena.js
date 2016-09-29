@@ -1,4 +1,4 @@
-class Arena {
+Arena = class Arena {
   constructor(w, h) {
     const matrix = [];
     while (h--) {
